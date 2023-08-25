@@ -1,0 +1,1 @@
+// Write a program to sort elements of array in ascending order And find the Duplicate Elements.

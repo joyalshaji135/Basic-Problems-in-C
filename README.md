@@ -418,7 +418,7 @@
                 51
             </td>
             <td>
-                  Write a program to delete an element at a specific position from an array.
+                  Write a program to count the total number of negative elements in an array.
             </td>
         </tr>
         <tr>
@@ -426,7 +426,7 @@
                 52
             </td>
             <td>
-                  Write a program to delete an element at a specific position from an array.
+                  Write a program to replace all Even numbers by / and Odd numbers by $.
             </td>
         </tr>
         <tr>
@@ -434,7 +434,7 @@
                 53
             </td>
             <td>
-                  Write a program to delete an element at a specific position from an array.
+                  Write a program to replace all prime numbers by 0 and non-prime numbers by 1 tthen Delete all 0's
             </td>
         </tr>
         <tr>
@@ -442,7 +442,7 @@
                 54
             </td>
             <td>
-                  Write a program to delete an element at a specific position from an array.
+                  Write a program to sort and reverse an array.
             </td>
         </tr>
         <tr>
@@ -450,7 +450,7 @@
                 55
             </td>
             <td>
-                  Write a program to delete an element at a specific position from an array.
+                  Write a program to sort elements of array in ascending order And find the Duplicate Elements.
             </td>
         </tr>
         <tr>
