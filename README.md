@@ -511,34 +511,34 @@
         </tr>
         <tr>
             <td>
-                58
+                63
             </td>
             <td>
-                  Write a program to separate positive and negative numbers in Negative Numbers separate arrays .
-            </td>
-        </tr>
-        <tr>
-            <td>
-                58
-            </td>
-            <td>
-                  Write a program to separate positive and negative numbers in Negative Numbers separate arrays .
+                  How to merge two unsorted arrays in sorted order.
             </td>
         </tr>
         <tr>
             <td>
-                58
+                64
             </td>
             <td>
-                  Write a program to separate positive and negative numbers in Negative Numbers separate arrays .
+                  How to merge two sorted arrays And Delete All Even number.
             </td>
         </tr>
         <tr>
             <td>
-                58
+                65
             </td>
             <td>
-                  Write a program to separate positive and negative numbers in Negative Numbers separate arrays .
+                  Write a program to merge and sort elements of two different arrays.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                66
+            </td>
+            <td>
+                  Write a program to print all unique elements in an array And Delete All Prime Numbers.
             </td>
         </tr>
         <tr>
