@@ -1,4 +1,4 @@
-// Write a program to sort elements of array in ascending order And find the Duplicate Elements.
+// Write a program to sort elements of array in descending order find the Unique Elements in Array 
 
 #include<stdio.h>
 void SortArray(int limit,int arr[]);
@@ -25,7 +25,7 @@ void SortArray(int limit,int arr[])
     {
         for (int j = i+1; j < limit; j++)
         {
-            if (arr[i] > arr[j])
+            if (arr[i] < arr[j])
             {
                 int temp = arr[i];
                 arr[i] = arr[j];
@@ -33,7 +33,7 @@ void SortArray(int limit,int arr[])
             }   
         }
     }
-    printf("\nSort the Array in Asecnding :\t");
+    printf("\nSort the Array in Desecnding :\t");
     for (int i = 0; i < limit; i++)
     {
         printf("%d\t",arr[i]);
@@ -41,7 +41,7 @@ void SortArray(int limit,int arr[])
 }
 void DuplicateElements(int limit,int arr[])
 {
-    printf("\nDisplay Duplicate Elements :\t");
+    printf("\nDisplay Unique Elements :\t");
     for (int i = 0; i < limit; i++)
     {
         if (arr[i] != -1)
@@ -56,7 +56,7 @@ void DuplicateElements(int limit,int arr[])
                         break;
                     }
                 }
-                if (flag == 1)
+                if (flag == 0)
                 {
                     printf("%d\t",arr[i]);
                 }
