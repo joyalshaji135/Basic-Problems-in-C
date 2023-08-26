@@ -458,7 +458,7 @@
                 56
             </td>
             <td>
-                  Write a program to delete an element at a specific position from an array.
+                  Write a program to sort elements of array in descending order find the Unique Elements in Array 
             </td>
         </tr>
         <tr>
@@ -466,7 +466,7 @@
                 57
             </td>
             <td>
-                  Write a program to delete an element at a specific position from an array.
+                  Write a program to find the average of numbers in an array
             </td>
         </tr>
         <tr>
@@ -474,7 +474,256 @@
                 58
             </td>
             <td>
-                  Write a program to delete an element at a specific position from an array.
+                  Write a program to separate positive and negative numbers in Negative Numbers separate arrays .
+            </td>
+        </tr>
+        <tr>
+            <td>
+                59
+            </td>
+            <td>
+                  Write a program to count the total number of Non-Prime elements in an array
+            </td>
+        </tr>
+        <tr>
+            <td>
+                60
+            </td>
+            <td>
+                  Write a program to count the total number of prime numbers in an array.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                61
+            </td>
+            <td>
+                  Write a program to delete all prime numbers and replace all even number & in an array.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                62
+            </td>
+            <td>
+                  Write a program to reverse an array without using an additional array.
+            </td>
+        </tr>
+        <tr>
+            <td>
+                58
+            </td>
+            <td>
+                  Write a program to separate positive and negative numbers in Negative Numbers separate arrays .
+            </td>
+        </tr>
+        <tr>
+            <td>
+                58
+            </td>
+            <td>
+                  Write a program to separate positive and negative numbers in Negative Numbers separate arrays .
+            </td>
+        </tr>
+        <tr>
+            <td>
+                58
+            </td>
+            <td>
+                  Write a program to separate positive and negative numbers in Negative Numbers separate arrays .
+            </td>
+        </tr>
+        <tr>
+            <td>
+                58
+            </td>
+            <td>
+                  Write a program to separate positive and negative numbers in Negative Numbers separate arrays .
+            </td>
+        </tr>
+        <tr>
+            <td>
+                58
+            </td>
+            <td>
+                  Write a program to separate positive and negative numbers in Negative Numbers separate arrays .
+            </td>
+        </tr>
+        <tr>
+            <td>
+                58
+            </td>
+            <td>
+                  Write a program to separate positive and negative numbers in Negative Numbers separate arrays .
+            </td>
+        </tr>
+        <tr>
+            <td>
+                58
+            </td>
+            <td>
+                  Write a program to separate positive and negative numbers in Negative Numbers separate arrays .
+            </td>
+        </tr>
+        <tr>
+            <td>
+                58
+            </td>
+            <td>
+                  Write a program to separate positive and negative numbers in Negative Numbers separate arrays .
+            </td>
+        </tr>
+        <tr>
+            <td>
+                58
+            </td>
+            <td>
+                  Write a program to separate positive and negative numbers in Negative Numbers separate arrays .
+            </td>
+        </tr>
+        <tr>
+            <td>
+                58
+            </td>
+            <td>
+                  Write a program to separate positive and negative numbers in Negative Numbers separate arrays .
+            </td>
+        </tr>
+        <tr>
+            <td>
+                58
+            </td>
+            <td>
+                  Write a program to separate positive and negative numbers in Negative Numbers separate arrays .
+            </td>
+        </tr>
+        <tr>
+            <td>
+                58
+            </td>
+            <td>
+                  Write a program to separate positive and negative numbers in Negative Numbers separate arrays .
+            </td>
+        </tr>
+        <tr>
+            <td>
+                58
+            </td>
+            <td>
+                  Write a program to separate positive and negative numbers in Negative Numbers separate arrays .
+            </td>
+        </tr>
+        <tr>
+            <td>
+                58
+            </td>
+            <td>
+                  Write a program to separate positive and negative numbers in Negative Numbers separate arrays .
+            </td>
+        </tr>
+        <tr>
+            <td>
+                58
+            </td>
+            <td>
+                  Write a program to separate positive and negative numbers in Negative Numbers separate arrays .
+            </td>
+        </tr>
+        <tr>
+            <td>
+                58
+            </td>
+            <td>
+                  Write a program to separate positive and negative numbers in Negative Numbers separate arrays .
+            </td>
+        </tr>
+        <tr>
+            <td>
+                58
+            </td>
+            <td>
+                  Write a program to separate positive and negative numbers in Negative Numbers separate arrays .
+            </td>
+        </tr>
+        <tr>
+            <td>
+                58
+            </td>
+            <td>
+                  Write a program to separate positive and negative numbers in Negative Numbers separate arrays .
+            </td>
+        </tr>
+        <tr>
+            <td>
+                58
+            </td>
+            <td>
+                  Write a program to separate positive and negative numbers in Negative Numbers separate arrays .
+            </td>
+        </tr>
+        <tr>
+            <td>
+                58
+            </td>
+            <td>
+                  Write a program to separate positive and negative numbers in Negative Numbers separate arrays .
+            </td>
+        </tr>
+        <tr>
+            <td>
+                58
+            </td>
+            <td>
+                  Write a program to separate positive and negative numbers in Negative Numbers separate arrays .
+            </td>
+        </tr>
+        <tr>
+            <td>
+                58
+            </td>
+            <td>
+                  Write a program to separate positive and negative numbers in Negative Numbers separate arrays .
+            </td>
+        </tr>
+        <tr>
+            <td>
+                58
+            </td>
+            <td>
+                  Write a program to separate positive and negative numbers in Negative Numbers separate arrays .
+            </td>
+        </tr>
+        <tr>
+            <td>
+                58
+            </td>
+            <td>
+                  Write a program to separate positive and negative numbers in Negative Numbers separate arrays .
+            </td>
+        </tr>
+        <tr>
+            <td>
+                58
+            </td>
+            <td>
+                  Write a program to separate positive and negative numbers in Negative Numbers separate arrays .
+            </td>
+        </tr>
+        <tr>
+            <td>
+                58
+            </td>
+            <td>
+                  Write a program to separate positive and negative numbers in Negative Numbers separate arrays .
+            </td>
+        </tr>
+        <tr>
+            <td>
+                58
+            </td>
+            <td>
+                  Write a program to separate positive and negative numbers in Negative Numbers separate arrays .
             </td>
         </tr>
     </table>
+    
