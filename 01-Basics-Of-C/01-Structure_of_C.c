@@ -7,7 +7,7 @@
 int main()   // datatype main() { ...... }
 {
     // open the bracket start to end
-
+    printf("Hello C Programming");
 // End add the Return Values
     return 0;
 }
