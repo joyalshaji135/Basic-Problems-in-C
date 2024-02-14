@@ -17,6 +17,5 @@ int main()
             rem2 = temp % 10;
         }
         number = number / 10;
-    }
-    
+    }   
 }
